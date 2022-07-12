@@ -4,7 +4,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:10827",
+      "applicationUrl": "http://localhost:54565",
       "sslPort": 0
     }
   },
@@ -16,14 +16,14 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Basket.API": {
+    "Discount.API": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "applicationUrl": "http://localhost:5001",
+      "applicationUrl": "http://localhost:5002",
       "dotnetRunMessages": "true"
     },
     "Docker": {
